@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.jcarrera.vista;
+package com.sflores.vista;
 
-import com.jcarrera.controlador.Coordinador;
-import com.jcarrera.modelo.Empleado;
+import com.sflores.controlador.Coordinador;
+import com.sflores.modelo.Empleado;
 
 /**
  *

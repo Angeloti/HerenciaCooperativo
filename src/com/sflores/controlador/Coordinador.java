@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mcarrera.controlador;
+package com.sflores.controlador;
 
-import com.mcarrera.modelo.Empleado;
-import com.mcarrera.vista.EditarDatos;
-import com.mcarrera.vista.Login;
+import com.sflores.modelo.Empleado;
+import com.sflores.vista.EditarDatos;
+import com.sflores.vista.Login;
 import java.util.ArrayList;
 
 /**
