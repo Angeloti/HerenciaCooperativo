@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.sflores.vista;
+package com.angeloti.vista;
 
-import com.sflores.controlador.Coordinador;
-import com.sflores.modelo.Empleado;
+import com.angeloti.controlador.Coordinador;
+import com.angeloti.modelo.Empleado;
 
 /**
  *

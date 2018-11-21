@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.sflores.controlador;
+package com.angeloti.controlador;
 
-import com.sflores.modelo.Empleado;
-import com.sflores.vista.EditarDatos;
-import com.sflores.vista.Login;
+import com.angeloti.modelo.Empleado;
+import com.angeloti.vista.EditarDatos;
+import com.angeloti.vista.Login;
 import java.util.ArrayList;
 
 /**
